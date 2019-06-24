@@ -1,5 +1,4 @@
 package goosAndConsumer;
-
 //商品类
 class Goods{
     //生产商品名称
@@ -28,7 +27,6 @@ class Goods{
         System.out.println("消费"+toString());
         notify();
     }
-
     @Override
     public String toString() {
         return "Goods{" +
