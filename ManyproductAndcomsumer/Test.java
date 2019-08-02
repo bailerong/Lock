@@ -1,4 +1,5 @@
 package ManyproductAndcomsumer;
+//多线程
 class Goods{
     //生产商品名称
     private String goodsName;
